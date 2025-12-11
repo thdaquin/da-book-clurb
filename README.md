@@ -20,11 +20,11 @@ Reading Schedule:
 - Second Meeting (Jan 5): Ch. 24 - 36
 
 Purchase Links:
-- Interactive art edition: https://www.amazon.com/dp/0062905279 
-- Basic edition: https://www.amazon.com/dp/014133164X 
+- Harper (2020): https://www.amazon.com/dp/0062905279 
+- Puffin Books (2011): https://www.amazon.com/dp/014133164X 
 
 Notes:
-- Both editions linked above are translated by E. Harden. Other editions can be found freely available online.
+- Both editions linked above are translated by E. Harden. The Harper edition has interactive art, while the Puffin edition comparatively simple.
 
 ## Letting Go by David R. Hawkins (Jan 19 & Feb 2)
 
