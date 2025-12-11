@@ -1,7 +1,14 @@
-# Da Book Clurb Resources
-Resources and reading schedule for da clurb
+# Da Book Clurb Reading Schedule
 
-## Ideas Have Consequences by Richard M. Weaver (Nov 21 & Dec 5)
+Schedule and Resources for Da Clurb
+
+Table of Contents 
+- [Ideas Have Consequences by Richard M. Weaver](#ideas-have-consequences-by-richard-m-weaver)
+- [Pinocchio by Carlo Collodi](#pinocchio-by-carlo-collodi)
+- [Letting Go by David R. Hawkins](#letting-go-by-david-r-hawkins)
+- [The Hiding Place by Corrie Ten Boom](#the-hiding-place-by-corrie-ten-boom)
+
+## Ideas Have Consequences by Richard M. Weaver
 
 Reading Schedule:
 - First Meeting (Nov 21): Ch. 1 - 5
@@ -13,7 +20,7 @@ Purchase Links:
 Notes:
 - Older editions have the same content but not the forward and afterward by other writers.
 
-## Pinocchio by Carlo Collodi (Dec 22 & Jan 5)
+## Pinocchio by Carlo Collodi
 
 Reading Schedule:
 - First Meeting (Dec 22): Ch. 1 - 23 
@@ -26,7 +33,7 @@ Purchase Links:
 Notes:
 - Both editions linked above are translated by E. Harden. The Harper edition has interactive art, while the Puffin edition comparatively simple.
 
-## Letting Go by David R. Hawkins (Jan 19 & Feb 2)
+## Letting Go by David R. Hawkins
 
 Reading Schedule:
 - First Meeting (Jan 19): Intro Material and Ch. 1 - 11
@@ -38,7 +45,7 @@ Purchase Links:
 Notes:
 - N/A
 
-## The Hiding Place by Corrie Ten Boom (Feb 16 & Mar 2)
+## The Hiding Place by Corrie Ten Boom
 
 Reading Schedule:
 - First Meeting (Feb 16): Ch. 1 - 8
