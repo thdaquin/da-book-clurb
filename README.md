@@ -13,7 +13,6 @@ Purchase Links:
 Notes:
 - Older editions have the same content but not the forward and afterward by other writers.
 
-
 ## Pinocchio by Carlo Collodi (Dec 22 & Jan 5)
 
 Reading Schedule:
@@ -27,25 +26,11 @@ Purchase Links:
 Notes:
 - Both editions linked above are translated by E. Harden. Other editions can be found freely available online.
 
-## Letting Go (Jan 19 & Feb 2)
-
-Book: The Adventures of Pinocchio by Carlo Collodi (translated by E. Harden)
-
-Reading Schedule:
-- First Meeting (Jan 19): Intro Material and Ch. 1 - 11
-- Second Meeting (Feb 2):  Ch. 12 - 21 and Ending Material
-
-Purchase Links:
-
-Hay House LLC (2014): https://www.amazon.com/dp/1401945015 
-
-Notes: Older editions have the same content but not the forward and afterward by other writers.)
-
 ## Letting Go by David R. Hawkins (Jan 19 & Feb 2)
 
 Reading Schedule:
 - First Meeting (Jan 19): Intro Material and Ch. 1 - 11
-- Second Meeting (Feb 2):  Ch. 12 - 21 and Ending Material
+- Second Meeting (Feb 2): Ch. 12 - 21 and Ending Material
 
 Purchase Links:
 - Hay House LLC (2014): https://www.amazon.com/dp/1401945015 
@@ -53,14 +38,17 @@ Purchase Links:
 Notes:
 - N/A
 
-## Letting Go by David R. Hawkins (Jan 19 & Feb 2)
+## The Hiding Place by Corrie Ten Boom (Feb 16 & Mar 2)
 
 Reading Schedule:
-- First Meeting (Jan 19): Intro Material and Ch. 1 - 11
-- Second Meeting (Feb 2):  Ch. 12 - 21 and Ending Material
+- First Meeting (Feb 16): Ch. 1 - 8
+- Second Meeting (Mar 2): Ch. 9 - 15
 
 Purchase Links:
-- Hay House LLC (2014): https://www.amazon.com/dp/1401945015 
+- Bantam Books (1974): https://www.amazon.com/dp/0553256696 
+
+Free Copy:
+- Internet Archive: https://archive.org/details/hidingplace0000unse_l0r6 
 
 Notes:
 - N/A
