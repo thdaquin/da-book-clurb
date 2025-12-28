@@ -48,14 +48,11 @@ Notes:
 ## Sophie's World by Jostein Gaarder
 
 Reading Schedule:
-- First Meeting (Feb 16): Ch. 1 - 8
-- Second Meeting (Mar 2): Ch. 9 - 15
+- First Meeting (Feb 16): first half (begining up through Locke)
+- Second Meeting (Mar 2): second half (Hume through to the end)
 
 Purchase Links:
 - Picador (2024): https://a.co/d/1YQ1HS2 
 
-Free Copy:
-- Internet Archive:  
-
 Notes:
-- N/A
+- Older printings are available but the newest is just $10 on Amazon.
