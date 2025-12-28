@@ -6,7 +6,7 @@ Table of Contents
 - [Ideas Have Consequences by Richard M. Weaver](#ideas-have-consequences-by-richard-m-weaver)
 - [Pinocchio by Carlo Collodi](#pinocchio-by-carlo-collodi)
 - [Letting Go by David R. Hawkins](#letting-go-by-david-r-hawkins)
-- [The Hiding Place by Corrie Ten Boom](#the-hiding-place-by-corrie-ten-boom)
+- [Sophie's World by Jostein Gaarder](#sophies-world-by-jostein-gaarder)
 
 ## Ideas Have Consequences by Richard M. Weaver
 
@@ -45,17 +45,17 @@ Purchase Links:
 Notes:
 - N/A
 
-## The Hiding Place by Corrie Ten Boom
+## Sophie's World by Jostein Gaarder
 
 Reading Schedule:
 - First Meeting (Feb 16): Ch. 1 - 8
 - Second Meeting (Mar 2): Ch. 9 - 15
 
 Purchase Links:
-- Bantam Books (1974): https://www.amazon.com/dp/0553256696 
+- Picador (2024): https://a.co/d/1YQ1HS2 
 
 Free Copy:
-- Internet Archive: https://archive.org/details/hidingplace0000unse_l0r6 
+- Internet Archive:  
 
 Notes:
 - N/A
