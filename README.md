@@ -48,8 +48,8 @@ Notes:
 ## Sophie's World by Jostein Gaarder
 
 Reading Schedule:
-- First Meeting (Feb 16): first half (begining up through Locke)
-- Second Meeting (Mar 2): second half (Hume through to the end)
+- First Meeting (Feb 16): first half (Beginning up to and including Spinoza)
+- Second Meeting (Mar 2): second half (Locke through to the end)
 
 Purchase Links:
 - Picador (2024): https://a.co/d/1YQ1HS2 
