@@ -1,6 +1,6 @@
 # Da Book Clurb Reading Schedule
 
-Schedule and Resources for Da Clurb
+Schedule and Resources
 
 Table of Contents 
 - [Ideas Have Consequences by Richard M. Weaver](#ideas-have-consequences-by-richard-m-weaver)
