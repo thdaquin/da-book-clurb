@@ -1,4 +1,4 @@
-# Da Book Clurb Reading Schedule
+# Reading Schedule
 
 Schedule and Resources
 
