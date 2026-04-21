@@ -8,6 +8,8 @@ Table of Contents
 - [Letting Go by David R. Hawkins](#letting-go-by-david-r-hawkins)
 - [Sophie's World by Jostein Gaarder](#sophies-world-by-jostein-gaarder)
 - [Notes from the Underground by Fyodor Dostoyevsky](#notes-from-the-underground-by-fyodor-dostoyevsky)
+- [A Princess of Mars by Edgar Rice Burroughs](#a-princess-of-mars-by-edgar-rice-burroughs)
+- [Understanding Comics by Scott McCloud](#understanding-comics-by-scott-mccloud)
 
 ## Ideas Have Consequences by Richard M. Weaver
 
@@ -62,7 +64,7 @@ Notes:
 ## Notes from the Underground by Fyodor Dostoyevsky
 
 Reading Schedule:
-- First Meeting (Apr 20): Part I: ("Underground")
+- First Meeting (Apr 20): Part I ("Underground")
 - Second Meeting (May 4): Part II ("A Propos of the Wet Snow")
 
 Purchase Links:
@@ -71,3 +73,40 @@ Purchase Links:
 Notes:
 - Plenty of translations out there. The Dover thrift edition is by Constance Garnett, which is used for the audiobook linked below.
 - [Librivox recording](https://librivox.org/notes-from-the-underground-version-2-by-fyodor-dostoyevsky)
+
+## A Princess of Mars by Edgar Rice Burroughs
+
+Reading Schedule:
+- First Meeting (May 18): beginning up to and including Chapter XV, "Sola Tells Me Her Story"
+- Second Meeting (Jun 1): Chapter XVI, "We Plan Escape", to the end
+
+Purchase Links:
+- [Mars Trilogy (2012)](https://a.co/d/0b3564bz)
+
+Notes:
+- the purchase link above is for the trilogy.
+- a free copy can be found on the [Internet Archive](https://archive.org/details/princessofmars0000edga_t9i5)
+
+## Understanding Comics by Scott McCloud
+
+Reading Schedule:
+- First Meeting (Jun 15): the first half (beginning up to and including Chapter 4, "Time Frames")
+- Second Meeting (Jun 29): the second half (Chapter 5, "Living In Line", to the end)
+
+Purchase Links:
+- [Understanding Comics (1994)](https://a.co/d/03KdLwbj)
+
+Notes:
+- a free copy can be found on the [Internet Archive](https://archive.org/details/isbn_9781627652735)
+
+## TBD
+
+Reading Schedule:
+- First Meeting (Jul 13): the first half (...)
+- Second Meeting (Jul 27): the second half (...)
+
+Purchase Links:
+- tbd
+
+Notes:
+- tbd
