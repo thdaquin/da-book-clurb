@@ -10,6 +10,8 @@ Table of Contents
 - [Notes from the Underground by Fyodor Dostoyevsky](#notes-from-the-underground-by-fyodor-dostoyevsky)
 - [A Princess of Mars by Edgar Rice Burroughs](#a-princess-of-mars-by-edgar-rice-burroughs)
 - [Understanding Comics by Scott McCloud](#understanding-comics-by-scott-mccloud)
+- [TBD](#tbd)
+- [The Good Life by Charles Guignon](#the-good-life-by-charles-guignon)
 
 ## Ideas Have Consequences by Richard M. Weaver
 
@@ -104,6 +106,19 @@ Notes:
 Reading Schedule:
 - First Meeting (Jul 13): the first half (...)
 - Second Meeting (Jul 27): the second half (...)
+
+Purchase Links:
+- tbd
+
+Notes:
+- tbd
+
+## The Good Life by Charles Guignon
+
+Reading Schedule:
+- First Meeting (Feb 23): the first third (beginning up to and including the chapter "Two Cultures")
+- Second Meeting (Mar 23): the second third (the chapter "The Middle Ages" up to and including the chapter "The Enlightenment")
+- Third Meeting (Apr 6): the last third (the chapter "Kant" through to the end)
 
 Purchase Links:
 - tbd
