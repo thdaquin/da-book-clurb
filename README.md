@@ -96,7 +96,7 @@ Reading Schedule:
 - Second Meeting (Jun 29): the second half (Chapter 5, "Living In Line", to the end)
 
 Purchase Links:
-- [Understanding Comics (1994)](https://a.co/d/03KdLwbj)
+- [William Morrow Paperbacks (1994)](https://a.co/d/03KdLwbj)
 
 Notes:
 - a free copy can be found on the [Internet Archive](https://archive.org/details/isbn_9781627652735)
@@ -116,12 +116,12 @@ Notes:
 ## The Good Life by Charles Guignon
 
 Reading Schedule:
-- First Meeting (Feb 23): the first third (beginning up to and including the chapter "Two Cultures")
-- Second Meeting (Mar 23): the second third (the chapter "The Middle Ages" up to and including the chapter "The Enlightenment")
-- Third Meeting (Apr 6): the last third (the chapter "Kant" through to the end)
+- First Meeting (Aug 10): the first third (beginning up to and including section 8 "Luther")
+- Second Meeting (Aug 24): the second third (section 9 "Dostoyevsky" up to and including section 17 "Emerson")
+- Third Meeting (Sep 7): the last third (section 18 "Nietzsche" to the end)
 
 Purchase Links:
-- tbd
+- [Hackett (1999)](https://a.co/d/0bUf20O8)
 
 Notes:
-- tbd
+- n/a
