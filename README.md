@@ -10,7 +10,7 @@ Table of Contents
 - [Notes from the Underground by Fyodor Dostoyevsky](#notes-from-the-underground-by-fyodor-dostoyevsky)
 - [A Princess of Mars by Edgar Rice Burroughs](#a-princess-of-mars-by-edgar-rice-burroughs)
 - [Understanding Comics by Scott McCloud](#understanding-comics-by-scott-mccloud)
-- [TBD](#tbd)
+- [Twilight by Stephenie Meyer](#twilight-by-stephenie-meyer)
 - [The Good Life by Charles Guignon](#the-good-life-by-charles-guignon)
 
 ## Ideas Have Consequences by Richard M. Weaver
@@ -101,17 +101,17 @@ Purchase Links:
 Notes:
 - a free copy can be found on the [Internet Archive](https://archive.org/details/isbn_9781627652735)
 
-## TBD
+## Twilight by Stephenie Meyer
 
 Reading Schedule:
-- First Meeting (Jul 13): the first half (...)
-- Second Meeting (Jul 27): the second half (...)
+- First Meeting (Jul 13): the first half (beginning up to and including chapter 12 "Balancing")
+- Second Meeting (Jul 27): the second half (chapter 13 "Confessions" to the end)
 
 Purchase Links:
-- tbd
+- [amazon link](https://a.co/d/00MnjpCm)
 
 Notes:
-- tbd
+- [Youtube audio recording playlist](https://youtu.be/PjNyiPN1Bw0?si=M_64Mfi5hR0Foq3X)
 
 ## The Good Life by Charles Guignon
 
