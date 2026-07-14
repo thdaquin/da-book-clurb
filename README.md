@@ -12,6 +12,7 @@ Table of Contents
 - [Understanding Comics by Scott McCloud](#understanding-comics-by-scott-mccloud)
 - [Twilight by Stephenie Meyer](#twilight-by-stephenie-meyer)
 - [The Good Life by Charles Guignon](#the-good-life-by-charles-guignon)
+- [The Napoleon of Notting Hill](#the-napoleon-of-notting-hill-by-g-k-chesterton)
 
 ## Ideas Have Consequences by Richard M. Weaver
 
@@ -125,3 +126,17 @@ Purchase Links:
 
 Notes:
 - n/a
+
+## The Napoleon of Notting Hill by G. K. Chesterton
+
+Reading Schedule:
+- First Meeting (Sep 21): the first half (beginning up to and including Book III)
+- Second Meeting (Oct 5): the second half (Book IV to the end)
+
+Purchase Links:
+- [Dover Publications (1991)](https://a.co/d/07TfehEn)
+
+Notes:
+- a free copy can be found on the [Internet Archive](https://archive.org/details/napoleonofnottin00chesuoft)
+- [Audio recording on Librivox](https://librivox.org/napoleon-of-notting-hill-by-chesterton/)
+- [Audio recording on Youtube](https://youtu.be/N64Q3Hc3vqY?si=jIrmJTwRlDGeLOnl)
