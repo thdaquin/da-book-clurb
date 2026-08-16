@@ -117,9 +117,9 @@ Notes:
 ## The Good Life by Charles Guignon
 
 Reading Schedule:
-- First Meeting (Aug 10): the first third (beginning up to and including section 8 "Luther")
-- Second Meeting (Aug 24): the second third (section 9 "Dostoyevsky" up to and including section 17 "Emerson")
-- Third Meeting (Sep 7): the last third (section 18 "Nietzsche" to the end)
+- First Meeting: the first third (beginning up to and including section 8 "Luther")
+- Second Meeting: the second third (section 9 "Dostoyevsky" up to and including section 17 "Emerson")
+- Third Meeting: the last third (section 18 "Nietzsche" to the end)
 
 Purchase Links:
 - [Hackett (1999)](https://a.co/d/0bUf20O8)
@@ -130,8 +130,8 @@ Notes:
 ## The Napoleon of Notting Hill by G. K. Chesterton
 
 Reading Schedule:
-- First Meeting (Sep 21): the first half (beginning up to and including Book III)
-- Second Meeting (Oct 5): the second half (Book IV to the end)
+- First Meeting: the first half (beginning up to and including Book III)
+- Second Meeting: the second half (Book IV to the end)
 
 Purchase Links:
 - [Dover Publications (1991)](https://a.co/d/07TfehEn)
